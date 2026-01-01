@@ -1,0 +1,5 @@
+project_id	project_name	start_date	planned_end	actual_end	status
+P101	Website Dev	01-01-2024	15-02-2024	18-02-2024	Delayed
+P102	Mobile App	10-01-2024	01-03-2024	28-02-2024	Completed
+P103	CRM System	01-02-2024	01-04-2024	10-04-2024	Delayed
+P104	Data Dashboard	01-03-2024	15-04-2024	14-04-2024	Completed
